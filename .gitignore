@@ -1,3 +1,4 @@
 # hello this is ignore file
 
 .env
+node_modules/
